@@ -1,0 +1,15 @@
+/* Estilo para el footer */
+footer {
+    position: fixed; /* Fijar el footer en la parte inferior */
+    bottom: 0; /* Colocar el footer en la parte inferior de la pantalla */
+    left: 0;
+    right: 0;
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000; /* Asegura que el footer esté en la parte superior de otros elementos */
+    color: white; /* Color de texto */
+    font-weight: bold; /* Peso de fuente en negrita */
+    font-size: 16px; /* Tamaño de fuente */
+  }
+  
