@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Contenido from './components/Contenido';
+import Navbar from './Navbar';
+import Footer from './Footer';
+import Contenido from './Contenido';
 
 function App() {
   const [seccion, setSeccion] = useState(''); // Estado para rastrear la sección actual

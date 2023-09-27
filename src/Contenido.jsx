@@ -1,4 +1,5 @@
 
+
 function Contenido({ seccion }) {
   return (
     <div>
