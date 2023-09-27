@@ -32,3 +32,15 @@ nav {
     text-decoration: underline; /* Subrayar en hover */
   }
   
+/* Estilo para la barra de navegación */
+nav {
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    right: 0;
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000; 
+  }
+  
